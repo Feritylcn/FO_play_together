@@ -1,0 +1,66 @@
+{
+  "games": [
+    {
+      "name": "Dark Souls I",
+      "image": "images/DarkSouls1.jpg",
+      "description": "An action RPG set in a dark fantasy world filled with challenging enemies and intricate lore.",
+      "platform": "PC",
+      "players": "2",
+      "steamUrl": "https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/"
+    }
+    ,
+    {
+      "name": "DarkSouls II Scholar of the First Sin",
+      "image": "images/DarkSouls2.jpg",
+      "description": "The enhanced edition of Dark Souls II, featuring improved graphics, additional content, and rebalanced gameplay.",
+      "platform": "PC",
+      "players": "2",
+      "steamUrl": "https://store.steampowered.com/app/335300/DARK_SOULS_II_Scholar_of_the_First_Sin/"
+}
+,
+    {
+      "name": "Dark Souls III",
+      "image": "images/DarkSouls3.jpg",
+      "description": "The epic conclusion to the Dark Souls series, offering intense combat, a rich world, and deep lore.",
+      "platform": "PC",
+      "players": "2",
+      "steamUrl": "https://store.steampowered.com/app/374320/DARK_SOULS_III/"
+    }
+    ,
+    {
+      "name": "Elden Ring Neightreign + DLC",
+      "image": "images/EldenRing_Nightreign.jpg",
+      "description": "An expansive open-world action RPG developed by FromSoftware.",
+      "platform": "PC",
+      "players": "2",
+      "steamUrl": "https://store.steampowered.com/app/2622380/ELDEN_RING_NIGHTREIGN/"
+    },
+    {
+      "name": "Hytale",
+      "image": "images/Hytale.jpg",
+      "description": "An upcoming sandbox RPG that combines block-building with adventure and exploration.",
+      "platform": "PC",
+      "players": "2",
+      "storeUrl": "https://hytale.com/"
+    }
+    ,
+    {
+      "name": "Tenebyss",
+      "image": "images/Tenebyss.jpg",
+      "description": "A deep-sea exploration RPG where players navigate underwater worlds filled with mystery and danger.",
+      "platform": "PC",
+      "players": "2",
+      "storeUrl": "https://store.steampowered.com/app/3516100/Tenebyss/"
+    }
+  ],
+  "mods": [
+    {
+      "name": "Just Enough Items (JEI)",
+      "image": "images/jei.jpg",
+      "description": "Recipe & item viewer.",
+      "mcVersion": "1.20.x",
+      "loader": "Forge/Fabric",
+      "curseforgeUrl": "https://www.curseforge.com/minecraft"
+    }
+  ]
+}

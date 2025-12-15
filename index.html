@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ferit’s Game & Mod List</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="container header-row">
+      <h1 class="brand">Game & Mod Hub</h1>
+
+      <nav class="nav">
+        <a href="#games" class="nav-link">Games</a>
+        <a href="#mods" class="nav-link">Minecraft Mods</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h2>What we’re playing next</h2>
+      <p>Add games and mods, show images, and link to Steam / CurseForge.</p>
+      <div class="controls">
+        <input id="search" class="input" placeholder="Search games/mods..." />
+        <select id="filter" class="input">
+          <option value="all">All</option>
+          <option value="games">Games</option>
+          <option value="mods">Mods</option>
+        </select>
+      </div>
+    </section>
+
+    <section id="games" class="section">
+      <div class="section-head">
+        <h3>Games</h3>
+        <span id="gamesCount" class="pill"></span>
+      </div>
+      <div id="gamesGrid" class="grid"></div>
+    </section>
+
+    <section id="mods" class="section">
+      <div class="section-head">
+        <h3>Minecraft Mods</h3>
+        <span id="modsCount" class="pill"></span>
+      </div>
+      <div id="modsGrid" class="grid"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <small>Made for me & my friend ✨</small>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
