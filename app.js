@@ -74,3 +74,35 @@ async function init() {
 
 init();
 
+
+const music = document.getElementById("bg-music");
+const btn = document.getElementById("music-btn");
+
+let playing = false;
+
+btn.addEventListener("click", () => {
+  if (!playing) {
+    music.play();
+    btn.textContent = "🔇 Pause Music";
+  } else {
+    music.pause();
+    btn.textContent = "🔊 Play Music";
+  }
+  playing = !playing;
+});
+
+
+let started = false;
+
+function startMusicAt15() {
+  if (started) return;
+  started = true;
+
+  // jump to 15 seconds
+  music.currentTime = 15;
+
+  music.play();
+}
+
+// user interaction is REQUIRED
+document.addEventListener("click", startMusicAt15);
