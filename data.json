@@ -52,15 +52,105 @@
       "players": "2",
       "storeUrl": "https://store.steampowered.com/app/3516100/Tenebyss/"
     }
+    ,
+    {
+      "name": "Ghost of Tsushima",
+      "image": "images/GhostofTsushima.jpg",
+      "description": "An open-world action-adventure game set in feudal Japan, focusing on the story of a samurai defending his homeland.",
+      "platform": "PC",
+      "players": "2",
+      "storeUrl": "https://store.steampowered.com/app/1245620/Ghost_of_Tsushima/"
+    }
   ],
   "mods": [
     {
-      "name": "Just Enough Items (JEI)",
-      "image": "images/jei.jpg",
-      "description": "Recipe & item viewer.",
-      "mcVersion": "1.20.x",
-      "loader": "Forge/Fabric",
-      "curseforgeUrl": "https://www.curseforge.com/minecraft"
+      "name": "The God",
+      "image": "images/TheGod.png",
+      "description": "He watches you, he knows everything about you, he's good to you until you make too many mistakes",
+      "mcVersion": "1.20.1",
+      "loader": "Forge",
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/the-god"
+    }
+    ,
+    {
+      "name": "Arrzee's Superhero Multiverse",
+      "image": "images/ArzeeSuper.png",
+      "description": "A Palladium addon featuring suits and powers from Arrzee's Enhanced SMP inspired by Marvel, DC and Superhero lore!",
+      "mcVersion": "1.20.1",
+      "loader": "Forge",
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/arrzees-multiverse"
+    }
+    ,
+    {
+      "name": "Warriors Of World 2",
+      "image": "images/WarriorsofWorld.jpeg",
+      "description": "Epic Fight add-on. New weapons and armor with exciting abilities.",
+      "mcVersion": "1.20.1",
+      "loader": "Forge",
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/guerreros-del-mundo-2"
+    }
+    ,
+    {
+      "name": "Alien Evolution",
+      "image": "images/Ben10.gif",
+      "description": "A Ben 10 mod for Palladium! Transform into a variety of high quality aliens with unique moves and playstyles! ",
+      "mcVersion": "1.20.1",
+      "loader": "Forge",
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/alienevo"
+    }
+    ,
+    {
+      "name": "Nycto",
+      "image": "images/Nycto.png",
+      "description": "A Palladium addon that adds a variety of superhero suits and powers from different universes!",
+      "mcVersion": "1.21.8-x",
+      "loader": "Forge",
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/nycto"
+    }
+    ,
+    {
+      "name": "Epic Fight - Wapons of Miracles",
+      "image": "images/EpicF.png",
+      "description": "Changes Minecraft Combat into Souls-Like Combat.",
+      "mcVersion": "1.20.1",
+      "loader": "Forge",
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod"
+    }
+    ,
+    {
+      "name": "Weapons of Miracles - Epic Fight",
+      "image": "images/WeaponM.png",
+      "description": "Improve epicfight with more weapon, more animations, more skills, more epic and more FIGHT!",
+      "mcVersion": "1.20.1",
+      "loader": "Forge",
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/weapons-of-miracles-epicfight"
+    }
+    ,
+    {
+      "name": "PantheonSent",
+      "image": "images/MoonKnight.jpeg",
+      "description": "Become Moon Knight!",
+      "mcVersion": "1.20.1",
+      "loader": "Forge",
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/pantheonsent"
+    }
+    ,
+    {
+      "name": "SAbyssal Ascent !!!Mod Pack!!!",
+      "image": "images/AbyssalAs.png",
+      "description": "A Modpack utilising immersive portals stacking 12 different dimensions vertically, each with their own ecosystem, resources, biodiversity and challenges, and you spawn at the very bottom of this world,.",
+      "mcVersion": "1.20.1",
+      "loader": "Forge",
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/modpacks/abyssal-ascent"
+    }
+    ,
+    {
+      "name": "Ninjago: Legacy of Spinjitzu",
+      "image": "images/Ninjago.png",
+      "description": "A mod adding the world of Lego Ninjago to Minecraft",
+      "mcVersion": "1.20.1",
+      "loader": "Forge",
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/ninjago-legacy-of-spinjitzu"
     }
   ]
 }
